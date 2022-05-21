@@ -9,7 +9,7 @@ build:
   verbosity: minimal
   publish_wap: true
   
-name: Build
+# name: Build
 on:
   push:
     branches:
