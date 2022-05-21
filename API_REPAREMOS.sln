@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_REPAREMOS", "API_REPAREMOS\API_REPAREMOS.csproj", "{7EF82287-63BE-4520-9C7A-E3D1E383A04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF82287-63BE-4520-9C7A-E3D1E383A04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF82287-63BE-4520-9C7A-E3D1E383A04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF82287-63BE-4520-9C7A-E3D1E383A04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF82287-63BE-4520-9C7A-E3D1E383A04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9C96D1-8451-4DF9-AA35-7B023BBD6B3E}
+	EndGlobalSection
+EndGlobal
