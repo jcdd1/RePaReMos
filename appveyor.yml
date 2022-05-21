@@ -5,11 +5,11 @@ before_build:
   - nuget restore
 
 # package Web Application project for Web Deploy
-build:
-  verbosity: minimal
-  publish_wap: true
+#build:
+#  verbosity: minimal
+#  publish_wap: true
   
-# name: Build
+name: Build
 on:
   push:
     branches:
@@ -19,6 +19,8 @@ on:
 jobs:
   build:
     name: Build
+    verbosity: minimal
+    publish_wap: true
     runs-on: windows-latest
     steps:
       - name: Set up JDK 11
