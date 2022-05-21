@@ -8,3 +8,9 @@ before_build:
 build:
   verbosity: minimal
   publish_wap: true
+
+environment:
+  sonar_token:
+    secure: aff785a897cf00e59ec93e43b31408901dfd200c
+  github_auth_token:
+    secure: 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
