@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BQRlZ9DQfWd/TnKwG2RoiNLjtId2d8i5Sf0pentDHCs1ZWvYHckk6eZdMaK8slkybkZ2hRmuCO1PIuQsdZeQUg==",
+  "dgSpecHash": "/vfQh6n7ssbQID6CtwFkdtYchG7nGwmIQCHxUN+E73vqWx7gRq47L857PYxXzYict50sHaHJTmEUCrVDYBrKaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj",
+  "projectFilePath": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sisitemas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Sisitemas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

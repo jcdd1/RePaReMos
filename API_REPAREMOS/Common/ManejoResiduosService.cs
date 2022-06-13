@@ -30,5 +30,21 @@ namespace API_REPAREMOS.Common
             }
 
         }
+
+
+        public async Task<List<DataInputDto>> ObtenerResiduosXCiudad(string ciudad)
+        {
+            using (var client = new HttpClient())
+            {
+
+                var result = await client.GetAsync("https://www.datos.gov.co/resource/m2y3-brbe.json?ciudad=" + ciudad);
+                var contentResult = result.Content.ReadAsStringAsync();
+                var jsonResult = JsonSerializer.Deserialize<List<DataInputDto>>(contentResult.Result, options);
+                return jsonResult;
+
+            }
+
+        }
+
     }
 }

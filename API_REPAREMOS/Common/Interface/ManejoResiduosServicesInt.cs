@@ -9,5 +9,7 @@ namespace API_REPAREMOS.Common.Interface
     public interface ManejoResiduosServicesInt
     {
         Task<List<DataInputDto>> ObtenerResiduos();
+        Task<List<DataInputDto>> ObtenerResiduosXCiudad(string ciudad);
+
     }
 }

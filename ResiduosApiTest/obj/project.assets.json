@@ -4821,11 +4821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\ResiduosApiTest.csproj",
+      "projectUniqueName": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\ResiduosApiTest.csproj",
       "projectName": "ResiduosApiTest",
-      "projectPath": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\ResiduosApiTest.csproj",
+      "projectPath": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\ResiduosApiTest.csproj",
       "packagesPath": "C:\\Users\\Sisitemas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\obj\\",
+      "outputPath": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sisitemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4842,8 +4842,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj": {
-              "projectPath": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj"
+            "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj": {
+              "projectPath": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj"
             }
           }
         }

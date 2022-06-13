@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "psH8kHAGX8Zq/uxZz+FmwJoIcID6TwxLQKVSLLk7bOUieagOBJGBLgr8i1JNPakg3JUionr15NKaGBnfiID8Zw==",
+  "dgSpecHash": "hDl8UqBjtuiEPYjyIbHnBHxpGNlbwTelk0JziiElrwYX1MtprcXl+mzUJSRno6KLZnyapbBxCQSlVsqzPTMBYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\ResiduosApiTest.csproj",
+  "projectFilePath": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\ResiduosApiTest\\ResiduosApiTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sisitemas\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Sisitemas\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

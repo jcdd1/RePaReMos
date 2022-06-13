@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj": {}
+    "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj": {
+    "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj",
+        "projectUniqueName": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj",
         "projectName": "API_REPAREMOS",
-        "projectPath": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj",
+        "projectPath": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\API_REPAREMOS.csproj",
         "packagesPath": "C:\\Users\\Sisitemas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sisitemas\\Source\\Repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\obj\\",
+        "outputPath": "C:\\Users\\Sisitemas\\source\\repos\\jcdd1\\RePaReMos\\API_REPAREMOS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sisitemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
