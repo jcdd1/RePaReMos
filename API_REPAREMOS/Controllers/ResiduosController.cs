@@ -61,6 +61,43 @@ namespace API_REPAREMOS.Controllers
         }
 
 
+        [HttpGet("jsonsalida")]
+        public async Task<IActionResult> Jsonsalida()
+        {
+            try
+            {
+                //var servicioApi = new ServiceAPI();
+                //var result = await servicioApi.ObtenerResiduos();
+
+                var result = await _serviceAPI.jsonsalida();
+
+                if (result != null)
+                {
+                    return Ok(result);
+                }
+                else
+                {
+                    return BadRequest(
+                        new DataErrorDto
+                        {
+                            Error = "Error mensaje",
+                            Valor = "3",
+                            FechaHora = DateTime.Now
+                        }
+                        );
+                }
+            }
+
+            catch (Exception ex)
+            {
+                return NotFound(ex.Message);
+                //return (ex.ToString());
+
+            }
+        }
+
+
+
         [HttpGet("ObtenerResiduosXCiudad/{ciudad}")]
         public async Task<IActionResult> ObtenerResiduosXCiudad(string ciudad)
         {

@@ -10,6 +10,7 @@ namespace API_REPAREMOS.Common.Interface
     {
         Task<List<DataInputDto>> ObtenerResiduos();
         Task<List<DataInputDto>> ObtenerResiduosXCiudad(string ciudad);
+        Task<List<DataOutputDto>> jsonsalida();
 
     }
 }
